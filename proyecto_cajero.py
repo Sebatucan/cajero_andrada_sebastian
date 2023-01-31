@@ -4,7 +4,7 @@
 
 
 def cajero():
-    print("Hola Bienvenido al cajero de Codo a Codo")
+    print("¡Hola Bienvenido!")
     idioma = int(input(
         "ingresa \n 1 para elegir el idioma en español \n 2 para ingles \n 3 para portugues: "))
     if idioma == 1:
