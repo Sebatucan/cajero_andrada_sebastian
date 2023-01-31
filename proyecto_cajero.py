@@ -53,7 +53,7 @@ def cajero():
                 tranferir = int(
                     input("ingrese el cbu de la cuenta a la cual deseas tranferir: "))
                 monto = int(input("ingresa el monto a tranferir: "))
-                print("#########################################################")
+                print("##########################################################")
                 print("Estas por realizar una transferencia al numero de cuenta ", tranferir,
                       "con el siguiente monto: ", monto, "estas seguro que deseas realizar esta accion ?")
                 print("#########################################################")
